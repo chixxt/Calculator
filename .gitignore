@@ -1,4 +1,6 @@
 __pycache__/
 *.pyc
 .env
-keep_demo.log
+keep-demo.log
+.venv/
+.pytest_cache/
